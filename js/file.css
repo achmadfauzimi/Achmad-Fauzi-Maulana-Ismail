@@ -9,7 +9,7 @@ body {
     background-color: #010101;
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(40, 114, 250);
   }
   
   
@@ -30,7 +30,6 @@ body {
     max-width: 900px;
     margin: 0 auto;
     padding: 10px;
-    font-family: "Bebas Neue";
 
     font-size: large;
     /* border-radius: 10px; */
